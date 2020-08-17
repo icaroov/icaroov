@@ -2,6 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/icaroov/)](https://www.linkedin.com/in/icaroov/) 
 [![Medium Badge](https://img.shields.io/badge/-Medium-292929?style=flat-square&labelColor=292929&logo=Medium&link=https://medium.com/@icaroov/)](https://medium.com/@icaroov/)
+ [![Gmail Badge](https://img.shields.io/badge/-icarovinici@gmail.com-c14438?style=flatsquare&logo=Gmail&logoColor=white&link=mailto:icarovinici@gmail.com)](mailto:icarovinici@gmail.com)
 [![Visits Badge](https://badges.pufler.dev/visits/icaroov/icaroov?logo=GitHub&label=Visits&color=success&logoColor=white&style=flat-square)](https://github.com/icaroov)
 
 
