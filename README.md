@@ -1,4 +1,4 @@
-### Hey, I'm Icaro! 👋
+<h2>Hey, I'm Icaro! 👋</h2> 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/icaroov/)](https://www.linkedin.com/in/icaroov/) 
 [![Medium Badge](https://img.shields.io/badge/-Medium-292929?style=flat-square&labelColor=292929&logo=Medium&link=https://medium.com/@icaroov/)](https://medium.com/@icaroov/)
