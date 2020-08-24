@@ -7,7 +7,7 @@
 
 
  - 📌 Living in <b>Campina Grande</b>, <b>Paraíba</b>, <b>Brazil</b> 
- - 💼 Frontend Engineer at <b>Brisanet</b>
+ - 💼 Frontend Developer at <b>Brisanet</b>
  - 🎓 Computer Science <b>student</b> 
  - 🚀 Full Stack Student at <b>Rocketseat</b> 
  - 🎯 Focused in <b>Node.JS</b>, <b>ReactJS</b> and <b>React Native</b>
