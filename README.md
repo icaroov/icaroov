@@ -6,6 +6,5 @@
 
 
  - 📌 Living in <b>Campina Grande</b>, <b>Paraíba</b>, <b>Brazil</b> 
- - 💼 Currently working as a frontend developer at <b>Brisanet</b>
  - 🎓 Computer Science <b>student</b> 
  - 🎯 Focused in <b>NodeJS</b>, <b>ReactJS</b> and <b>React Native</b>
