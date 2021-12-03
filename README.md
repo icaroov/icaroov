@@ -6,6 +6,6 @@
 
  - 👨‍💻 I'm Front-end Developer
  - 📌 Living in <b>Campina Grande</b>, <b>Paraíba</b>, <b>Brazil</b> 
- - 💼 Currently working at <b>[@Upplify](https://upplify.com/)</b>
+ - 💼 Currently working with React, TypeScript and NodeJS.
 
 [![Icaro's GitHub stats](https://github-readme-stats.vercel.app/api?username=icaroov&show_icons=true&title_color=fff&icon_color=48D06D&text_color=c9d1d9&bg_color=222222)](https://github.com/icaroov/github-readme-stats)
