@@ -4,8 +4,8 @@
  [![Gmail Badge](https://img.shields.io/badge/-icarovinici@gmail.com-222222?style=flat-square&logo=Gmail&logoColor=white&link=mailto:icarovinici@gmail.com)](mailto:icarovinici@gmail.com)
  [![Blog](https://img.shields.io/badge/-Blog-222222?style=flat-square&logo=Ghost&logoColor=white&link=https://icaro.dev.br/)](https://icaro.dev.br/)
 
- - 👨‍💻 I'm Front-end Developer
+ - 👨‍💻 I'm Web Developer
  - 📌 Living in <b>Campina Grande</b>, <b>Paraíba</b>, <b>Brazil</b> 
- - 💼 Currently working with React, TypeScript and NodeJS.
+ - 💼 Currently working with React, TypeScript and NodeJS
 
 [![Icaro's GitHub stats](https://github-readme-stats.vercel.app/api?username=icaroov&show_icons=true&title_color=fff&icon_color=48D06D&text_color=c9d1d9&bg_color=222222)](https://github.com/icaroov/github-readme-stats)
