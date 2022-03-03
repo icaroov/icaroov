@@ -1,6 +1,6 @@
 ## Hey! Nice to see you.
 
-<img align="right" height="200" src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" />
+<img align="right" height="180" src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" />
 
 I'm Icaro, Fullstack software developer from <img src="https://cdn-icons-png.flaticon.com/512/3909/3909370.png" width="13"/> <b>Campina Grande, Brazil</b>. <br>
 I'm currently working with React, Angular, TypeScript and NodeJS. <br>
