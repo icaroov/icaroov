@@ -5,7 +5,7 @@
 I'm Icaro, Fullstack software developer from <img src="https://cdn-icons-png.flaticon.com/512/3909/3909370.png" width="13"/> <b>Campina Grande, Brazil</b>. <br>
 I'm currently working with React, Angular, TypeScript and NodeJS. <br>
 
-Sometimes I write [blog](https://icaro.dev.br/) posts about web development stuff. <br>
+Sometimes I write [blog](https://icaro.dev.br/) posts in portuguese about web development stuff. <br>
 Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/icaroov/) about job-related matters. <br>
 
 I love sharing my knowledge with others, so if you have any questions about some the technologies listed below, feel free to ping me.<br>
@@ -31,7 +31,7 @@ I love sharing my knowledge with others, so if you have any questions about some
     <img
       align="center"
       height="150em"
-      src="https://github-readme-stats.vercel.app/api?username=icaroov&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide=issues"
+      src="https://github-readme-stats.vercel.app/api?username=icaroov&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide=contribs,issues"
     />
   </a>
   <a href="https://github.com/icaroov">
