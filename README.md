@@ -20,23 +20,3 @@ If you have any questions about some the technologies listed below, feel free to
 ![graphql](https://img.shields.io/static/v1?logo=graphql&label=&message=graphql&color=111&logoColor=AAA&style=flat-square)
 ![docker](https://img.shields.io/static/v1?logo=docker&label=&message=docker&color=111&logoColor=AAA&style=flat-square)
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=111&logoColor=AAA&style=flat-square)
-
----
-
-<p align="center">
-  <a href="https://github.com/icaroov">
-    <img
-      align="center"
-      height="150em"
-      src="https://github-readme-stats.vercel.app/api?username=icaroov&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide=contribs,issues"
-    />
-  </a>
-  <a href="https://github.com/icaroov">
-    <img
-      align="center"
-      height="150em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=icaroov&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark"
-    />
-  </a>
-</p>
-
