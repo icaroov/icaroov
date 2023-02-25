@@ -10,6 +10,7 @@ If you have any questions about some the technologies listed below, feel free to
 ![languages](https://img.shields.io/static/v1?label=&message=languages:&color=555&style=flat-square)
 ![js](https://img.shields.io/static/v1?logo=javascript&label=&message=javascript&color=111&logoColor=AAA&style=flat-square&link=)
 ![ts](https://img.shields.io/static/v1?logo=typescript&label=&message=typescript&color=111&logoColor=AAA&style=flat-square)
+![ts](https://img.shields.io/static/v1?logo=ruby&label=&message=ruby&color=111&logoColor=AAA&style=flat-square)
 &nbsp;&nbsp;&nbsp;
 <br>
 ![technologies](https://img.shields.io/static/v1?label=&message=technologies:&color=555&style=flat-square)
