@@ -1,5 +1,5 @@
 
-I'm Icaro, Fullstack software developer from <img src="https://cdn-icons-png.flaticon.com/512/3909/3909370.png" width="13"/> <b>Campina Grande, Brazil</b>. <br>
+Hi there! I'm Icaro, Fullstack software developer from <img src="https://cdn-icons-png.flaticon.com/512/3909/3909370.png" width="13"/> <b>Brazil</b>. <br>
 I'm currently working with React, NextJS, TypeScript, NodeJS and Ruby on Rails. <br>
 
 Sometimes I write [blog](https://icaro.dev.br/) posts in portuguese about web development stuff. <br>
