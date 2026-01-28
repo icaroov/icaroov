@@ -2,7 +2,6 @@
 Hi there! I'm Icaro, Fullstack software developer from <img src="https://cdn-icons-png.flaticon.com/512/3909/3909370.png" width="13"/> <b>Brazil</b>. <br>
 I'm currently working with React, NextJS, TypeScript, NodeJS and Ruby on Rails. <br>
 
-Sometimes I write [blog](https://icaro.dev.br/) posts in portuguese about web development stuff. <br>
 Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/icaroov/) about job-related matters. <br>
 
 If you have any questions about some the technologies listed below, feel free to ping me.<br>
