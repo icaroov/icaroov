@@ -1,5 +1,5 @@
 
-Hi there! I'm Ícaro, Fullstack software developer from <img src="https://cdn-icons-png.flaticon.com/512/3909/3909370.png" width="13"/> <b>Brazil</b>. <br>
+Hi there! I'm Ícaro, Fullstack software developer from 🇧🇷 <b>Brazil</b>. <br>
 I'm currently working with React, NextJS, TypeScript, NodeJS and Ruby on Rails. <br>
 
 Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/icaroov/) about job-related matters. <br>
